@@ -1,0 +1,42 @@
+body
+{
+    background-image: url("https://i.pinimg.com/originals/11/cd/ed/11cded915eb64199b9f01e7dfb346745.png");
+	background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+	border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+	color: white;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	border-radius: 10px;
+	width: 600px;
+	height: 65px;
+	margin-bottom:20px;
+}
